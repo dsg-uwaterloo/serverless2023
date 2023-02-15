@@ -1,4 +1,4 @@
-<! ---# Workshop on Serverless Data Analytics -->
+<!--- # Workshop on Serverless Data Analytics -->
 ## 1 September 2023, Vancouver, Canada
 ### (Co-located with VLDB 2023 Conference)
 
