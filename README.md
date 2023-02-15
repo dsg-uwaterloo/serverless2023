@@ -36,6 +36,7 @@ The Workshop Proceedings will be online, following VLDB 2023 process for all wor
 ### Program Committee Members (Partial)
 
 * Ashraf Aboulnaga, Qatar Computing Research Institute
+* Gustavo Alonso, ETH Zürich
 * Samer Al-Kiswani, University of Waterloo
 * Khuzaima Daudjee, University of Waterloo
 * Niv Dayan, University of Toronto
