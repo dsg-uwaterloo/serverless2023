@@ -1,6 +1,6 @@
 <! ---# Workshop on Serverless Data Analytics -->
 ## 1 September 2023, Vancouver, Canada
-## Co-located with VLDB 2023 Conference
+### (Co-located with VLDB 2023 Conference)
 
 Serverless computing has become popular with cloud providers because of its ease of use by application developers, its lightweight runtime, ease of maangement, resource elasticity and fine-grained billing. Adapting data analytics applications to serverless platforms pose new challenges. To maximize the benefits of serverless, the data analytics systems must be well designed, implemented, maintained, and optimized to efficiently process the massive amount of intermediate data, achieve the best possible job performance with a limited budget, minimize the cost without violating the QoS objective, etc. Recent work on serverless analytics has demonstrated the benefits of serverless architectures for resource- and cost-efficient data analytics. 
 
