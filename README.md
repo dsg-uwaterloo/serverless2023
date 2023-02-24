@@ -41,6 +41,7 @@ The Workshop Proceedings will be online, following VLDB 2023 process for all wor
 * Khuzaima Daudjee, University of Waterloo
 * Niv Dayan, University of Toronto
 * Schahram Dustdar, TU Wien
+* Robin Grosman, Huawei Technologies Canada
 * Guoliang Li, Tsinghua University
 * Mohammad Shahrad, University of British Columbia
 * Jianguo Wang, Purdue University
