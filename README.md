@@ -43,5 +43,6 @@ The Workshop Proceedings will be online, following VLDB 2023 process for all wor
 * Schahram Dustdar, TU Wien
 * Robin Grosman, Huawei Technologies Canada
 * Guoliang Li, Tsinghua University
+* Samuel Madden, MIT
 * Mohammad Shahrad, University of British Columbia
 * Jianguo Wang, Purdue University
