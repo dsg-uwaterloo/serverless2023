@@ -42,7 +42,7 @@ The Workshop Proceedings will be online, following VLDB 2023 process for all wor
 * Niv Dayan, University of Toronto
 * Schahram Dustdar, TU Wien
 * Robin Grosman, Huawei Technologies Canada
-* Alexandru Iosup, Vrije Universiteit Amsterdam
+* Alexandru Iosup, Vrije Universiteit Amsterdam 
 * Guoliang Li, Tsinghua University
 * Samuel Madden, MIT
 * Mohammad Shahrad, University of British Columbia
