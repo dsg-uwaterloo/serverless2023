@@ -33,7 +33,7 @@ TBA
 
 The Workshop Proceedings will be online, following VLDB 2023 process for all workshops.
 
-### Program Committee Members (Partial)
+### Program Committee Members
 
 * Ashraf Aboulnaga, Qatar Computing Research Institute
 * Gustavo Alonso, ETH Zürich
