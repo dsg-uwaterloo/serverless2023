@@ -20,14 +20,13 @@ The topics covered in the workshop include, but are not limited to:
 
 ### Workshop Program
 
-TBA
+Keynote Speaker: Gustavo Alonso, ETH Zürich
 
 ### Important Dates
 
-* Abstract due: 15 June 2023 
-* Papers due: 22 June 2023
+* Papers due: 22 June 2023, 12:00pm EST
 * Author notification: 15 July 2023
-* Camera-ready: 22 July 2023
+* Camera-ready: 22 July 2023, 12:00pm EST
 
 ### Proceedings
 
