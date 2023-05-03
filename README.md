@@ -20,6 +20,8 @@ The topics covered in the workshop include, but are not limited to:
 
 ### Workshop Program
 
+The workshop will have one keynote and 3-4 accepted papers with sufficient time for discussions.
+
 Keynote Speaker: Gustavo Alonso, ETH Zürich
 
 ### Important Dates
