@@ -27,11 +27,11 @@ Keynote Speaker: Gustavo Alonso, ETH Zürich
 
 ### Paper Submission & Evaluation 
 
-Paper submission is to be done through CMT at the following site: https://cmt3.research.microsoft.com/SDA2023
+Paper submission is to be done through CMT at the following site: <a href="https://cmt3.research.microsoft.com/SDA2023" target="_blank">https://cmt3.research.microsoft.com/SDA2023</a>
 
 All papers will be peer reviewed by the Program Committee. The submitted papers should not have been previously published or concurrently under consideration. Work-in-progress papers that are shorter in length are acceptable and encouraged. The workshop will be in-person and one author of each paper is required to register.
 
-Regular papers are 12 pages (excluding references); shorter, work-in-progress papers are limited to 6 pages (excluding references). PVLDB formatting guidelines and styles apply. Please consult http://vldb.org/pvldb/volumes/17/formatting for templates.
+Regular papers are 12 pages (excluding references); shorter, work-in-progress papers are limited to 6 pages (excluding references). PVLDB formatting guidelines and styles apply. Please consult <a href="http://vldb.org/pvldb/volumes/17/formatting" target="_blank">http://vldb.org/pvldb/volumes/17/formatting</a> for templates.
 
 ### Important Dates
 
