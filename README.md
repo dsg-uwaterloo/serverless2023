@@ -48,6 +48,10 @@ Regular papers are 12 pages (excluding references); shorter, work-in-progress pa
 
 The Workshop Proceedings will be online, following VLDB 2023 process for all workshops.
 
+### Organizers
+* M. Tamer Özsu, University of Waterloo (tamer.ozsu@uwaterloo.ca)
+* Xun Xue, Huawei Technologies Canada (xun.xue@huawei.com)
+
 ### Program Committee Members
 
 * Ashraf Aboulnaga, Qatar Computing Research Institute
