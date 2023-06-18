@@ -40,9 +40,9 @@ Regular papers are 12 pages (excluding references); shorter, work-in-progress pa
 
 ### Important Dates
 
-* Papers due: 22 June 2023, 12:00pm EST
+* Papers due: 22 June 2023, midnight EST
 * Author notification: 15 July 2023
-* Camera-ready: 22 July 2023, 12:00pm EST
+* Camera-ready: 22 July 2023, midnight EST
 
 ### Proceedings
 
