@@ -30,6 +30,12 @@ The workshop will have one keynote and 3-4 accepted papers with sufficient time 
 
 *Bio*: Gustavo Alonso is a professor in the Department of Computer Science of ETH Zurich where he is a member of the Systems Group. He graduated from the Technical University of Madrid, Spain and did his MSc and PhD at the University of California at Santa Barbara. He was a research scientists at the IBM Almaden Research Center in San Jose, California before joining ETH. His research interests include data management, distributed systems, cloud computing architecture, and hardware acceleration through reconfigurable computing. Gustavo has received 4 Test-of-Time Awards for his research in databases, software runtimes, middleware, and mobile computing. He is an ACM Fellow, an IEEE Fellow, a Distinguished Alumnus of the Department of Computer Science of UC Santa Barbara, and has received the Lifetime Achievement Award from the European Chapter of ACM SIGOPS (EuroSys).
 
+### Accepted Papers
+
+* Hyperspecialized compilation for serverless functions, Leonhard Spiegelberg (Brown University); Tim Kraska (MIT); Malte Schwarzkopf (Brown University) 
+* Ephemeral Per-query Engines for Serverless Analytics, Michal Wawrzoniak (ETHZ); Rodrigo Bruno (Instituto Superior Técnico / INESC-ID Lisboa); Ana Klimovic (ETH Zurich); Gustavo Alonso (ETHZ)
+* BabelMR: A Polyglot Framework for Serverless MapReduce, Thomas Bodner (Hasso Plattner Institute, University of Potsdam); Fabian Mahling (Hasso Plattner Institute, University of Potsdam); Paul Rößler (Hasso Plattner Institute, University of Potsdam); Tilmann Rabl (HPI, University of Potsdam)
+
 ### Paper Submission & Evaluation 
 
 Paper submission is to be done through CMT at the following site: <a href="https://cmt3.research.microsoft.com/SDA2023" target="_blank">https://cmt3.research.microsoft.com/SDA2023</a>
@@ -42,11 +48,11 @@ Regular papers are 12 pages (excluding references); shorter, work-in-progress pa
 
 * Papers due: ~~22 June 2023, midnight EST~~ 30 June 2023, midnight EST
 * Author notification: ~~15 July 2023~~ 30 July 2023
-* Camera-ready: ~~22 July 2023,~~ midnight EST 7 August 2023
+* Camera-ready: ~~22 July 2023,~~ midnight EST 9 August 2023
 
 ### Proceedings
 
-The Workshop Proceedings will be online, following VLDB 2023 process for all workshops.
+There will be a joint proceedings of most VLDB 2023 workshops and SDA papers will be included in it. The proceedings will be published as part of CEUR-WS.
 
 ### Organizers
 * M. Tamer Özsu, University of Waterloo (tamer.ozsu@uwaterloo.ca)
