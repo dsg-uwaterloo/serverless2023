@@ -21,11 +21,12 @@ The topics covered in the workshop include, but are not limited to:
 ### Workshop Program
 
 | :------------- | :------ |
+| 8:30 - 10:30  | Breakfast (served) |
 | 10:30 - 11:30  | **Keynote:** *The promise and the reality of serverless*,  Gustavo Alonso, ETH Zürich |
 | 11:30 - 12:00  | *BabelMR: A Polyglot Framework for Serverless MapReduce*, Thomas Bodner (Hasso Plattner Institute, University of Potsdam); Fabian Mahling (Hasso Plattner Institute, University of Potsdam); Paul Rößler (Hasso Plattner Institute, University of Potsdam); Tilmann Rabl (HPI, University of Potsdam) |
-| 12:00 - 13:30  | Lunch (served) |
-| 13:30 - 14:00  | *Ephemeral Per-query Engines for Serverless Analytics*, Michal Wawrzoniak (ETH Zürich); Rodrigo Bruno (Instituto Superior Técnico / INESC-ID Lisboa); Ana Klimovic (ETH Zürich); Gustavo Alonso (ETH Zürich) |
-| 14:00 - 14:30  | *Hyperspecialized compilation for serverless functions*, Leonhard Spiegelberg (Brown University); Tim Kraska (MIT); Malte Schwarzkopf (Brown University) |
+| 12:00 - 13:00  | Lunch (served) |
+| 13:00 - 13:30  | *Ephemeral Per-query Engines for Serverless Analytics*, Michal Wawrzoniak (ETH Zürich); Rodrigo Bruno (Instituto Superior Técnico / INESC-ID Lisboa); Ana Klimovic (ETH Zürich); Gustavo Alonso (ETH Zürich) |
+| 13:30 - 14:00  | *Hyperspecialized compilation for serverless functions*, Leonhard Spiegelberg (Brown University); Tim Kraska (MIT); Malte Schwarzkopf (Brown University) |
 
 
 ### Program Details
