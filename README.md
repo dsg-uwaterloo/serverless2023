@@ -20,6 +20,8 @@ The topics covered in the workshop include, but are not limited to:
 
 ### Workshop Program
 
+#### Room: Parksville
+
 | :------------- | :------ |
 | 8:30 - 10:30  | Breakfast (served) |
 | 10:30 - 11:30  | **Keynote:** *Rethinking Serverless Computing: from the Programming Model to the Platform Design*,  Gustavo Alonso, ETH Zürich |
