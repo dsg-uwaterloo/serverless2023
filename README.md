@@ -31,6 +31,10 @@ The topics covered in the workshop include, but are not limited to:
 | 13:30 - 14:00  | *Hyperspecialized compilation for serverless functions*, Leonhard Spiegelberg (Brown University); Tim Kraska (MIT); Malte Schwarzkopf (Brown University) |
 
 
+### Workshop Proceedings
+
+Published as part of [Joint Proceedings of Workshops at the 49th International Conference on Very Large Data Bases](https://ceur-ws.org/Vol-3462/)
+
 ### Program Details
 
 #### Keynote: 
