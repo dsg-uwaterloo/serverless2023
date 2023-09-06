@@ -39,7 +39,7 @@ Published as part of [Joint Proceedings of Workshops at the 49th International C
 
 #### Keynote: 
 
-* *Rethinking Serverless Computing: from the Programming Model to the Platform Design*, Gustavo Alonso, Ana Klimovic, Tom Kuchler, Michael Wawrzoniak
+* *Rethinking Serverless Computing: from the Programming Model to the Platform Design*, Gustavo Alonso, Ana Klimovic, Tom Kuchler, Michael Wawrzoniak ([Slides](slides/SDA-WS-VLDB-23.pdf?raw=true))
 
   *Abstract*: Serverless computing offers a number of advantages over conventional, Virtual Machine (VM) based deployments on the cloud, e.g., greater elasticity, simplicity of use and management, finer granularity billing, and rapid deployment and start up times. Naturally, there is a growing interest in exploring how to run applications in this new environment and data analytics is not an exception. Unfortunately, current serverless platforms are limited along several dimensions, which makes things quite difficult from the perspective of data analytics. In this paper we explore what serverless has to offer today, what is missing, and what can be done to make serverless a better computing platform in general and for data analytics in particular.  
 
@@ -47,7 +47,7 @@ Published as part of [Joint Proceedings of Workshops at the 49th International C
 
 ####  Papers
 
-* *BabelMR: A Polyglot Framework for Serverless MapReduce*, Fabian Mahling (Hasso Plattner Institute, University of Potsdam); Paul Rößler (Hasso Plattner Institute, University of Potsdam); Thomas Bodner (Hasso Plattner Institute, University of Potsdam)); Tilmann Rabl (HPI, University of Potsdam)
+* *BabelMR: A Polyglot Framework for Serverless MapReduce*, Fabian Mahling (Hasso Plattner Institute, University of Potsdam); Paul Rößler (Hasso Plattner Institute, University of Potsdam); Thomas Bodner (Hasso Plattner Institute, University of Potsdam)); Tilmann Rabl (HPI, University of Potsdam) ([Slides](slides/BabelMR@SDA_v2.pdf?raw=true))
 
   *Abstract*: The MapReduce programming model and its open-source implementation Hadoop have democratized large-scale data processing by providing ease-of-use and scalability. Subsequently, systems such as Spark have dramatically improved efficiency. However, for a large number of users and applications, using these frameworks remains challenging, because they typically restrict them to specific programming languages or require cluster management expertise.
 
